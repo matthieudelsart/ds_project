@@ -48,3 +48,4 @@ jupyter lab ./bike_counters_starting_kit.ipynb
 Upload your script file `.py` to Kaggle using the Kaggle interface directly.
 The platform will then execute your code to generate your submission csv file, and compute your score.
 Note that your submission .csv file must have the columns "Id" and "bike_log_count", and be of the same length as `final_test.parquet`.
+
